@@ -37,7 +37,11 @@ li:first-letter {
 .weather-app {
   padding: 20px;
   border: 1px solid #dadde1;
+  border-color: #ffecd2;
+  background-image: linear-gradient(to top, #fcb69f 0%, #fbc2eb 100%);
+
   border-radius: 5px;
+  border-width: 10px;
 }
 
 .overview {
